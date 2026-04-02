@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="thumbnail34.png" width="800">
+</p>
+
+---
+
 # 💼 Salary Prediction using Polynomial Regression
 
 🚀 A Machine Learning project that predicts salary based on experience level using **Polynomial Regression**.  
@@ -111,6 +117,11 @@ streamlit run app.py
 Contributions are welcome! Feel free to fork this repo and improve it.
 
 ---
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/salary-prediction-polynomial.git)
 
 ## 📧 Contact
 
